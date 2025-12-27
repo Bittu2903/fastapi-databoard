@@ -134,6 +134,17 @@ Use the **Query Console** at the top.
 * Click the **Trash Icon** (delete) to remove a row.
 * Click **+ New Record** to manually insert data.
 
+### Screenshots
+<img width="1470" height="729" alt="image" src="https://github.com/user-attachments/assets/918a6050-24e4-4047-b8ed-03d0974a5c13" />
+Select a table from list
+<img width="1470" height="729" alt="image" src="https://github.com/user-attachments/assets/7d0bb864-11ae-4990-9aea-10c7212f22c0" />
+Update or Delete record using action buttons
+<img width="1470" height="729" alt="image" src="https://github.com/user-attachments/assets/9023b8dd-ffa8-40cc-a406-baadfedbb4c4" />
+Add New Record
+<img width="1470" height="729" alt="image" src="https://github.com/user-attachments/assets/b76f6b85-d92f-40e6-8335-0de6f70706a0" />
+Query a specific record with SQL
+<img width="1470" height="729" alt="image" src="https://github.com/user-attachments/assets/32a601c1-ffca-4c3c-ad31-74c0110f802c" />
+
 ---
 
 ## Security
